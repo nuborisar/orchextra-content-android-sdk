@@ -1,6 +1,6 @@
 allprojects {
   ext {
-    libraries = [androidSupportDesign       : 'com.android.support:design:23.4.0',
+    libraries = [androidSupportDesign       : 'com.android.support:design:24.2.1', //asv esto debe ser 24.2.1 ya que la multiplegrid lleva la 24.2.1 debido a un bug q hasta esa version no está resuelto
 
                  daggerCompiler             : 'com.github.GigigoGreenLabs.repackagedLibs:dagger-compiler:2.2.2',
                  dagger                     : 'com.github.GigigoGreenLabs.repackagedLibs:dagger:2.2.2',

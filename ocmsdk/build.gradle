@@ -159,4 +159,8 @@ dependencies {
   compile rootProject.ext.libraries.playServicesGcm
 
   compile rootProject.ext.libraries.realTextView
+
+/*New for fork*/
+  compile 'com.github.GigigoGreenLabs:DeviceInfoLib:0.1RC'
+
 }
